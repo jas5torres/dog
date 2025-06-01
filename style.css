@@ -10,10 +10,14 @@ html{
 }
 
 nav{
-  display: grid;
-  grid-column-start: 1;
-  grid-column-end: 11;
-  grid-row-start: 1;
-  grid-row-end: 2;
+  display: inline-block
+}
+
+header{
+  background-color: pink
+}
+
+nav{
+  background-color: green
 }
 
